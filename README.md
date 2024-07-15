@@ -1,58 +1,12 @@
-﻿# portfolio_project_css
 
-<h1 align="left">The appearance of my project</h1>
-<img src="1.png">
-<img src="2.png">
-<img src="3.png">
-<img src="4.png">
-<img src="5.png">
-<img src="6.png">
+![1](https://github.com/user-attachments/assets/d9bc32a6-febc-4e5d-b4de-994cd86e7e55)
 
-<h1 align="left">Hey 👋 What's up?</h1>
+![2](https://github.com/user-attachments/assets/69b40cb2-291d-4ebd-8868-a589f8aa435e)
 
-###
+![3](https://github.com/user-attachments/assets/aebc7aa6-5204-4da0-bc51-d845491143d1)
 
-<p align="left">My name is Abdullah Sholi and I'm a Computer Engineer, from Palestine</p>
+![4](https://github.com/user-attachments/assets/4e314284-3c61-42c5-bc61-94c778dee213)
 
-###
+![5](https://github.com/user-attachments/assets/9f87da2c-d08f-44ea-9bc2-315026a98b20)
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-
-  
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" height="40" alt="javascript logo"  />
-  
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  
-  
-</div>
-
-###
+![6](https://github.com/user-attachments/assets/b6644f7d-b41c-44c0-a6de-3b023604bfba)
